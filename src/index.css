@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active span{
+    background: #b0b4be;
+    color: #3c495f;
+    text-decoration: underline;
+}
